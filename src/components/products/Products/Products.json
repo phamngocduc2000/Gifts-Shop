@@ -377,5 +377,511 @@
 
         ],
         "files":"/data/EtsyGifts/Balloons/Porcelain-Balloon/Porcelain-Balloon.docx"
+    },
+    {
+        "id": 13,
+        "name": "Personalised Premium Couple Mugs - Polka Dot",
+        "top": 1,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 1,
+            "name": "Mugs"
+        },
+        "price": "16.77",
+        "status": "",
+        "desc": [
+            "A perfect gift for that perfect couple on weddings or anniversaries. Each mug comes with a lid and metal spoon"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/CoupleMugs-PolkaDot/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/CoupleMugs-PolkaDot/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/CoupleMugs-PolkaDot/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/CoupleMugs-PolkaDot/4.jpg"
+            }
+        ],
+        "detail": [
+            "material: Ceramic Mug with Gold Foil Printing ",
+            "Capacity : 300ml",
+            "size: 14cm (w) x 8.5cm (w) x 8.3cm (d)",
+            "Not suitable for microwave or oven",
+            "Gift set comes with complimentary gift card and box."
+        ],
+        "file": "/data/GiftrGifts/Mugs/CoupleMugs-PolkaDot/CoupleMugs-PolkaDot.docx"
+    },
+    {
+        "id": 14,
+        "name": "Personalised Coffee Mug",
+        "top": 0,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 1,
+            "name": "Mugs"
+        },
+        "price": "10.47",
+        "status": "New",
+        "desc": [
+            "Features a personalised gift box with Personalised Coffee Mug"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/4.jpg"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/5.jpg"
+            },
+            {
+                "id": "6",
+                "name": "pic6",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/6.jpg"
+            }
+        ],
+        "detail": [
+            "Features a gift box with 1 personalized mug",
+            "250ml mug and approx 12cm height.",
+            "Includes: 1 personalized mug, 1 gift box, and 1 gift card",
+            "Personalization is using the high quality of Vinyl Decal.",
+            "Care: Not Dishwasher or Not Microwave Safe. Please gently hand wash only."
+        ],
+        "file": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/PersonalisedCoffeeMug.docx"
+    },
+    {
+        "id": 15,
+        "name": "Juice Be Yourself Personalised Mug",
+        "top": 1,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 1,
+            "name": "Mugs"
+        },
+        "price": "10.50",
+        "status": "",
+        "desc": [
+            "Tell Mom how much she means to us with this statement mug. This quirky and fun mug will surely put a smile on mom's face. Personalise it to make it extra special!"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/JuiceBeYourselfPersonalisedMug/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/JuiceBeYourselfPersonalisedMug/2.jpg"
+            }
+        ],
+        "detail": [
+            "Material: Sublimated coffee mug",
+            "Size: 11oz",
+            "Microwave safe"
+        ],
+        "file": "/data/GiftrGifts/Mugs/JuiceBeYourselfPersonalisedMug/JuiceBeYourself-Mug.docx"
+    },
+    {
+        "id": 16,
+        "name": "Personalized Wooden Bracelet Box",
+        "top": 0,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 2,
+            "name": "Bracalets"
+        },
+        "price": "23.8",
+        "status": "New",
+        "desc": [
+            "Ever think of a delicate and yet practical gift for her? Then you must consider this unique wooden bracelet box! The black walnut wood material gives it a classic feel. The high-quality velvet inside will protect your bracelet from scratches."
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/PersonalizedWoodenBraceletBox/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/PersonalizedWoodenBraceletBox/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/PersonalizedWoodenBraceletBox/3.jpg"
+            }
+        ],
+        "detail": [
+            "Made of black walnut wood",
+            "Dimensions: 10.3 cm (L) x 10.3 cm (W) x 3.6 cm (H)",
+            "Magnetic lift lid",
+            "Lined with high-quality velvet",
+            "Comes with a gift box with a ribbon",
+            "NSJ products are engraved with the NSJ logo and packed in NSJ packaging boxes"
+        ],
+        "file": "/data/GiftrGifts/Bracelets/PersonalizedWoodenBraceletBo/Wooden.docx"
+    },
+    {
+        "id": 17,
+        "name": "Dino Dinosaur Charm Bracelet",
+        "top": 1,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 2,
+            "name": "Bracalets"
+        },
+        "price": "15.95",
+        "status": "",
+        "desc": [
+            "Featuring a dinosaur charm and an adjustable bracelet, this piece of jewelry is sure to make a statement. Show your love for dinosaurs, or just add a fun touch to your outfit!"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/DinoDinosaurCharmBracelet/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/DinoDinosaurCharmBracelet/2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/DinoDinosaurCharmBracelet/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/DinoDinosaurCharmBracelet/4.jpg"
+            }
+        ],
+        "detail": [
+            "Materials: dinosaur cubic zircon charms",
+            "Measure: Approx. 18.5 cm",
+            "Color may differ between screen",
+            "Item come with gift box"
+        ],
+        "file": "/data/GiftrGifts/Bracelets/DinoDinosaurCharmBracelet/DinoBracalet.docx"
+    },
+    {
+        "id": 18,
+        "name": "Kelvin Gems Crossly Swarovski Crystal Pearl Bracelet",
+        "top": 0,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 2,
+            "name": "Bracalets"
+        },
+        "price": "27.71",
+        "status": "New",
+        "desc": [
+            "2 rows of Swarovski pearls held together with our cross findings give this bracelet a bangle-like feel. This magnificent bracelet will draw attention to your sexy wrist against a little black dress."
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/KelvinGemsCrosslySwarovskiCrystalPearlBracelet/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/KelvinGemsCrosslySwarovskiCrystalPearlBracelet/2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/KelvinGemsCrosslySwarovskiCrystalPearlBracelet/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/KelvinGemsCrosslySwarovskiCrystalPearlBracelet/4.jpg"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/KelvinGemsCrosslySwarovskiCrystalPearlBracelet/5.jpg"
+            }
+        ],
+        "detail": [
+            "Pearl Size : 8mm",
+            "Colour : Golden / Light Blue / Platinum",
+            "Length : 17cm/18cm/19cm",
+            "Clasp Material : Brass",
+            "Clasp Type : Fold-over Clasp",
+            "Clasp Plating : Rhodium Plating (18K White Gold Plated)",
+            "Re-sizable : Yes",
+            "Weight : 17.50g"
+        ],
+        "file": "/data/GiftrGifts/Bracelets/KelvinGemsCrosslySwarovskiCrystalPearlBracelet/KevinGems.docx"
+    },
+    {
+        "id": 19,
+        "name": "IKEA Gift Card",
+        "top": 1,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 3,
+            "name": "Cards"
+        },
+        "price": "27.08",
+        "status": "",
+        "desc": ["Perfect gift for a housewarming or newlywed couple."],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Cards/IKEAGiftCard/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Cards/IKEAGiftCard/2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Cards/IKEAGiftCard/3.png"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Cards/IKEAGiftCard/4.png"
+            }
+        ],
+        "detail": [
+            "Perfect gift for a housewarming or newlywed couple.",
+            "Choose your preferred voucher values of RM100, RM200, RM300, and RM500",
+            "Giftr is not associated with IKEA.",
+            "Price includes the service fee, which consists of store visits, parking fees, queuing and paying, packing & delivery arrangements.",
+            "Gift Cards & Vouchers can't be purchased using BNPL payment options (i.e. Atome, GrabPay Postpaid, PayLater by Grab)",
+            "FREE shipping to West Malaysia only"
+        ],
+        "file": "/data/GiftrGifts/Cards/IKEAGiftCard/IKEACard.docx"
+    },
+    {
+        "id": 20,
+        "name": "Giftr's Gift Card",
+        "top": 1,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 3,
+            "name": "Cards"
+        },
+        "price": "21.14",
+        "desc": [
+            "Give them the gift of choice with Giftr's gift card. Send this to someone as a gift and they can use it on their preferred gift on Giftr!",
+            "Shopping for someone else but not sure what to give them?"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Cards/GiftrsGiftCard/1.png"
+            }
+        ],
+        "detail": [
+            "The gift card will be sent to the buyer's email (which is you). We are unable to send the email to the recipient as the code is secured and we would not have access to the code as well.",
+            "You can then forward the Gift Card to the recipient.",
+            "Limited to only 1 recipient per order. Gift cards for multiple recipients must be secured in different orders."
+        ],
+        "files": "/data/GiftrGifts/CardsGiftrsGiftCard/GiftrsGiftCard.docx"
+    },
+    {
+        "id": 21,
+        "name": "18\" Bobo Balloon",
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 4,
+            "name": "Balloons"
+        },
+        "price": "14.80",
+        "desc": ["Customize for balloon brithday"],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Balloons/18BoboBalloon/1.jpg"
+            }
+        ],
+        "detail": [
+            "1pcs x 18\" Bobo Balloon With Wording",
+            "Comes With Ribbon and Weights"
+        ],
+        "files": "/data/GiftrGifts/Balloons/18BoboBalloon/18Bobo.docx"
+    },
+    {
+        "id": 22,
+        "name": "Chrome Balloon Flower Bouquet",
+        "top": 1,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 4,
+            "name": "Balloons"
+        },
+        "price": "16.70",
+        "desc": [
+            "Our Balloon Flower Bouquet is more than just a gift; it's a memorable experience that your dad will cherish. Whether he chooses to display it in his office or enjoy it at home, this bouquet is sure to become a conversation starter and a source of joy for him."
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Balloons/BalloonFlowerBouquet/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Balloons/BalloonFlowerBouquet/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Balloons/BalloonFlowerBouquet/3.jpg"
+            }
+        ],
+        "detail": [
+            "It comes with 2 option:",
+            "3 Stalks of Balloon Flower",
+            "6 Stalks of Balloon Flower",
+            "It is wrapped with flower wrapper and tied with Premium Ribbon"
+        ],
+        "files": "/data/GiftrGifts/Balloons/BalloonFlowerBouquet/BalloonFlower.docx"
+    },
+    {
+        "id": 23,
+        "name": "Customised 'Happy Birthday' Bubble Balloon Package (Black & Grey)",
+        "top": 1,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 4,
+            "name": "Balloons"
+        },
+        "price": "42.08",
+        "desc": [
+            "Customised 'Happy Birthday' Bubble Balloon Package"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Balloons/CustomisedBubbleBalloon/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Balloons/CustomisedBubbleBalloon/2.jpg"
+            }
+        ],
+        "detail": [
+            "Features Black & Grey bubble balloon package as below: ",
+            "1 x 24\" bubble balloon with mini balloons filling, customisable with birthday boy/girl's name.",
+            "5 x Helium balloons",
+            "Name to be on the bubble balloon",
+            "Balloons can only last up to 8 hours"
+        ],
+        "files": "/data/GiftrGifts/Balloons/CustomisedBubbleBalloon/BubbleBalloon.docx"
     }
 ]
